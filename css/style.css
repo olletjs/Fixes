@@ -16,9 +16,11 @@ footer {
   color: #D0D0D0;
 }
 /*-- Main Menu Styles--*/
+
 nav ul {
   list-style: none;
   padding: 1em;
+  display: flex auto;
 }
 nav a:link, nav a:visited {
   color: #D0D0D0;
@@ -44,6 +46,7 @@ header img {
 header h1 {
   margin: 0 auto;
   padding: 0 auto;
+  font-family: 'Lato', sans-serif;
 }
 .small {
   margin-top: 1em;
